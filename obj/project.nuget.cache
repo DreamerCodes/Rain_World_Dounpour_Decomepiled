@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "jfO2EgFTQQCXHGiyC58JRNazI1jHooRqBjS6YKMFuFLnzb6mUP2FA1vdM+5BRBpY1+hrqhqCd2oDdqkJM1WZzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nacho\\Documents\\MOAR_Slugcats_2\\New folder (3)\\New folder\\Rain_World_Decomepiled\\Assembly-CSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nacho\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\nacho\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net40\\1.0.3\\microsoft.netframework.referenceassemblies.net40.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
