@@ -1,0 +1,8 @@
+public interface IUseARelationshipTracker
+{
+	AIModule ModuleToTrackRelationship(CreatureTemplate.Relationship relationship);
+
+	CreatureTemplate.Relationship UpdateDynamicRelationship(RelationshipTracker.DynamicRelationship dRelation);
+
+	RelationshipTracker.TrackedCreatureState CreateTrackedCreatureState(RelationshipTracker.DynamicRelationship rel);
+}
